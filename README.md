@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
  <head>
-<title> TAWARA GAMING COMPUTERS </title>
  </head>
  <body>
  <table width="1000" border="1" align="center">
